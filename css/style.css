@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "monsterrat";
+  src: url("fonts/monsterrat.ttf");
+}
+
+@font-face {
+  font-family: "nokiafc22";
+  src: url("fonts/nokiafc22.ttf");
+}
+
+h1 {
+  color: black;
+  font-family: monsterrat;
+}
