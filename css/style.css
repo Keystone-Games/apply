@@ -17,3 +17,7 @@ h2 {
   color: blue;
   font-family: monospace;
 }
+
+.header {
+  background-color: #00aaff;
+}
