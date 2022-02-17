@@ -10,5 +10,10 @@
 
 h1 {
   color: black;
-  font-family: monsterrat;
+  font-family: monospace;
+}
+
+h2 {
+  color: blue;
+  font-family: monospace;
 }
