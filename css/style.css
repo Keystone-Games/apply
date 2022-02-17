@@ -24,17 +24,17 @@ h2 {
 
 table{
   border-collapse:collapse;
-  border:1px solid #FF0000;
+  border:1px solid #ffaa00;
   font-family: "monsterrat";
 }
 
 table td{
-  border:1px solid #FF0000;
+  border:1px solid #ffaa00;
 }
 
 button {
     background-color: #9955FF;
-    border: #00ff00;
+    border: #ffaa00;
     color: white;
     padding: 17px 60px;
     font-size: 13px;
@@ -44,9 +44,8 @@ button {
     border-style: solid;
 }
 button:hover {
-    background-color: #6633DD;
-    border: #00ffdd;
+    background-color: #00aaff;
+    border: #ffaa00;
     transition: 0.7s;
     border-style: solid;
-    border: #00ff00;
 }
